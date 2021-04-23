@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1619147014352,68,Request1,200,OK,Prueba 1 1-1,text,true,,223,233,1,1,http://lbracmwebserver-2141593773.us-east-1.elb.amazonaws.com/api/url/asfghjkljhgfd/voces,66,0,44
+1619147020202,18,Request1,200,OK,Prueba 1 1-2,text,true,,223,233,1,1,http://lbracmwebserver-2141593773.us-east-1.elb.amazonaws.com/api/url/asfghjkljhgfd/voces,18,0,2
+1619147026204,14,Request1,200,OK,Prueba 1 1-3,text,true,,223,233,1,1,http://lbracmwebserver-2141593773.us-east-1.elb.amazonaws.com/api/url/asfghjkljhgfd/voces,14,0,1
+1619147032202,20,Request1,200,OK,Prueba 1 1-4,text,true,,223,233,1,1,http://lbracmwebserver-2141593773.us-east-1.elb.amazonaws.com/api/url/asfghjkljhgfd/voces,20,0,2
+1619147038209,15,Request1,200,OK,Prueba 1 1-5,text,true,,223,233,1,1,http://lbracmwebserver-2141593773.us-east-1.elb.amazonaws.com/api/url/asfghjkljhgfd/voces,15,0,1
+1619147044210,15,Request1,200,OK,Prueba 1 1-6,text,true,,223,233,1,1,http://lbracmwebserver-2141593773.us-east-1.elb.amazonaws.com/api/url/asfghjkljhgfd/voces,15,0,1
+1619147050208,20,Request1,200,OK,Prueba 1 1-7,text,true,,223,233,1,1,http://lbracmwebserver-2141593773.us-east-1.elb.amazonaws.com/api/url/asfghjkljhgfd/voces,20,0,5
+1619147056208,16,Request1,200,OK,Prueba 1 1-8,text,true,,223,233,1,1,http://lbracmwebserver-2141593773.us-east-1.elb.amazonaws.com/api/url/asfghjkljhgfd/voces,16,0,1
+1619147062207,26,Request1,200,OK,Prueba 1 1-9,text,true,,223,233,1,1,http://lbracmwebserver-2141593773.us-east-1.elb.amazonaws.com/api/url/asfghjkljhgfd/voces,26,0,1
+1619147068207,17,Request1,200,OK,Prueba 1 1-10,text,true,,223,233,1,1,http://lbracmwebserver-2141593773.us-east-1.elb.amazonaws.com/api/url/asfghjkljhgfd/voces,17,0,2

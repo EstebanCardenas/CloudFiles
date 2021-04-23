@@ -1,0 +1,92 @@
+2021-04-23 03:03:33,261 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2021-04-23 03:03:33,300 INFO o.a.j.JMeter: Loading user properties from: /home/ubuntu/apache-jmeter-5.4.1/bin/user.properties
+2021-04-23 03:03:33,300 INFO o.a.j.JMeter: Loading system properties from: /home/ubuntu/apache-jmeter-5.4.1/bin/system.properties
+2021-04-23 03:03:33,310 INFO o.a.j.JMeter: Copyright (c) 1998-2021 The Apache Software Foundation
+2021-04-23 03:03:33,310 INFO o.a.j.JMeter: Version 5.4.1
+2021-04-23 03:03:33,310 INFO o.a.j.JMeter: java.version=11.0.10
+2021-04-23 03:03:33,310 INFO o.a.j.JMeter: java.vm.name=OpenJDK 64-Bit Server VM
+2021-04-23 03:03:33,310 INFO o.a.j.JMeter: os.name=Linux
+2021-04-23 03:03:33,310 INFO o.a.j.JMeter: os.arch=amd64
+2021-04-23 03:03:33,310 INFO o.a.j.JMeter: os.version=5.4.0-1038-aws
+2021-04-23 03:03:33,310 INFO o.a.j.JMeter: file.encoding=UTF-8
+2021-04-23 03:03:33,311 INFO o.a.j.JMeter: java.awt.headless=true
+2021-04-23 03:03:33,311 INFO o.a.j.JMeter: Max memory     =1073741824
+2021-04-23 03:03:33,311 INFO o.a.j.JMeter: Available Processors =2
+2021-04-23 03:03:33,320 INFO o.a.j.JMeter: Default Locale=English (EN)
+2021-04-23 03:03:33,320 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2021-04-23 03:03:33,320 INFO o.a.j.JMeter: JMeterHome=/home/ubuntu/apache-jmeter-5.4.1
+2021-04-23 03:03:33,320 INFO o.a.j.JMeter: user.dir  =/home/ubuntu
+2021-04-23 03:03:33,320 INFO o.a.j.JMeter: PWD       =/home/ubuntu
+2021-04-23 03:03:33,324 INFO o.a.j.JMeter: IP: 172.31.65.2 Name: ip-172-31-65-2 FullName: ip-172-31-65-2.ec2.internal
+2021-04-23 03:03:33,336 INFO o.a.j.s.FileServer: Default base='/home/ubuntu'
+2021-04-23 03:03:33,337 INFO o.a.j.s.FileServer: Set new base='/home/ubuntu'
+2021-04-23 03:03:33,585 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2021-04-23 03:03:33,630 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2021-04-23 03:03:33,640 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2021-04-23 03:03:33,645 INFO o.a.j.s.SaveService: Loading file: tests.jmx
+2021-04-23 03:03:33,701 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2021-04-23 03:03:33,701 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2021-04-23 03:03:33,702 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2021-04-23 03:03:33,702 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2021-04-23 03:03:33,703 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2021-04-23 03:03:33,703 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2021-04-23 03:03:33,761 INFO o.a.j.JMeter: Creating summariser <summary>
+2021-04-23 03:03:33,765 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2021-04-23 03:03:33,766 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2021-04-23 03:03:33,766 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2021-04-23 03:03:33,784 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2021-04-23 03:03:33,784 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2021-04-23 03:03:34,145 INFO o.a.j.JMeter: Running test (1619147014145)
+2021-04-23 03:03:34,191 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Prueba 1
+2021-04-23 03:03:34,192 INFO o.a.j.e.StandardJMeterEngine: Starting 10 threads for group Prueba 1.
+2021-04-23 03:03:34,192 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2021-04-23 03:03:34,192 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=10 ramp-up=60 delayedStart=false
+2021-04-23 03:03:34,205 INFO o.a.j.t.JMeterThread: Thread started: Prueba 1 1-1
+2021-04-23 03:03:34,218 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2021-04-23 03:03:34,218 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2021-04-23 03:03:34,238 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = ip-172-31-65-2
+2021-04-23 03:03:34,246 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2021-04-23 03:03:34,247 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2021-04-23 03:03:34,247 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2021-04-23 03:03:34,248 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2021-04-23 03:03:34,248 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2021-04-23 03:03:34,422 INFO o.a.j.r.Summariser: Generate Summary Results +      1 in 00:00:00 =    3.6/s Avg:    68 Min:    68 Max:    68 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+2021-04-23 03:03:34,423 INFO o.a.j.r.Summariser: summary +      1 in 00:00:00 =    3.6/s Avg:    68 Min:    68 Max:    68 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+2021-04-23 03:03:34,424 INFO o.a.j.t.JMeterThread: Thread is done: Prueba 1 1-1
+2021-04-23 03:03:34,424 INFO o.a.j.t.JMeterThread: Thread finished: Prueba 1 1-1
+2021-04-23 03:03:40,200 INFO o.a.j.t.JMeterThread: Thread started: Prueba 1 1-2
+2021-04-23 03:03:40,220 INFO o.a.j.t.JMeterThread: Thread is done: Prueba 1 1-2
+2021-04-23 03:03:40,221 INFO o.a.j.t.JMeterThread: Thread finished: Prueba 1 1-2
+2021-04-23 03:03:46,203 INFO o.a.j.t.JMeterThread: Thread started: Prueba 1 1-3
+2021-04-23 03:03:46,219 INFO o.a.j.t.JMeterThread: Thread is done: Prueba 1 1-3
+2021-04-23 03:03:46,219 INFO o.a.j.t.JMeterThread: Thread finished: Prueba 1 1-3
+2021-04-23 03:03:52,201 INFO o.a.j.t.JMeterThread: Thread started: Prueba 1 1-4
+2021-04-23 03:03:52,223 INFO o.a.j.t.JMeterThread: Thread is done: Prueba 1 1-4
+2021-04-23 03:03:52,223 INFO o.a.j.t.JMeterThread: Thread finished: Prueba 1 1-4
+2021-04-23 03:03:58,208 INFO o.a.j.t.JMeterThread: Thread started: Prueba 1 1-5
+2021-04-23 03:03:58,224 INFO o.a.j.t.JMeterThread: Thread is done: Prueba 1 1-5
+2021-04-23 03:03:58,225 INFO o.a.j.t.JMeterThread: Thread finished: Prueba 1 1-5
+2021-04-23 03:04:04,208 INFO o.a.j.t.JMeterThread: Thread started: Prueba 1 1-6
+2021-04-23 03:04:04,225 INFO o.a.j.r.Summariser: Generate Summary Results +      5 in 00:00:30 =    0.2/s Avg:    16 Min:    14 Max:    20 Err:     0 (0.00%) Active: 1 Started: 6 Finished: 5
+2021-04-23 03:04:04,225 INFO o.a.j.r.Summariser: Generate Summary Results =      6 in 00:00:30 =    0.2/s Avg:    25 Min:    14 Max:    68 Err:     0 (0.00%)
+2021-04-23 03:04:04,226 INFO o.a.j.r.Summariser: summary +      5 in 00:00:30 =    0.2/s Avg:    16 Min:    14 Max:    20 Err:     0 (0.00%) Active: 1 Started: 6 Finished: 5
+2021-04-23 03:04:04,226 INFO o.a.j.r.Summariser: summary =      6 in 00:00:30 =    0.2/s Avg:    25 Min:    14 Max:    68 Err:     0 (0.00%)
+2021-04-23 03:04:04,226 INFO o.a.j.t.JMeterThread: Thread is done: Prueba 1 1-6
+2021-04-23 03:04:04,226 INFO o.a.j.t.JMeterThread: Thread finished: Prueba 1 1-6
+2021-04-23 03:04:10,207 INFO o.a.j.t.JMeterThread: Thread started: Prueba 1 1-7
+2021-04-23 03:04:10,228 INFO o.a.j.t.JMeterThread: Thread is done: Prueba 1 1-7
+2021-04-23 03:04:10,229 INFO o.a.j.t.JMeterThread: Thread finished: Prueba 1 1-7
+2021-04-23 03:04:16,207 INFO o.a.j.t.JMeterThread: Thread started: Prueba 1 1-8
+2021-04-23 03:04:16,225 INFO o.a.j.t.JMeterThread: Thread is done: Prueba 1 1-8
+2021-04-23 03:04:16,225 INFO o.a.j.t.JMeterThread: Thread finished: Prueba 1 1-8
+2021-04-23 03:04:22,206 INFO o.a.j.t.JMeterThread: Thread started: Prueba 1 1-9
+2021-04-23 03:04:22,234 INFO o.a.j.t.JMeterThread: Thread is done: Prueba 1 1-9
+2021-04-23 03:04:22,234 INFO o.a.j.t.JMeterThread: Thread finished: Prueba 1 1-9
+2021-04-23 03:04:28,205 INFO o.a.j.t.JMeterThread: Thread started: Prueba 1 1-10
+2021-04-23 03:04:28,224 INFO o.a.j.t.JMeterThread: Thread is done: Prueba 1 1-10
+2021-04-23 03:04:28,224 INFO o.a.j.t.JMeterThread: Thread finished: Prueba 1 1-10
+2021-04-23 03:04:28,224 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2021-04-23 03:04:28,225 INFO o.a.j.r.Summariser: summary +      4 in 00:00:24 =    0.2/s Avg:    19 Min:    16 Max:    26 Err:     0 (0.00%) Active: 0 Started: 10 Finished: 10
+2021-04-23 03:04:28,225 INFO o.a.j.r.Summariser: summary =     10 in 00:00:54 =    0.2/s Avg:    22 Min:    14 Max:    68 Err:     0 (0.00%)
+2021-04-23 03:04:28,225 INFO o.a.j.r.Summariser: Generate Summary Results +      4 in 00:00:24 =    0.2/s Avg:    19 Min:    16 Max:    26 Err:     0 (0.00%) Active: 0 Started: 10 Finished: 10
+2021-04-23 03:04:28,226 INFO o.a.j.r.Summariser: Generate Summary Results =     10 in 00:00:54 =    0.2/s Avg:    22 Min:    14 Max:    68 Err:     0 (0.00%)
