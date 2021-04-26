@@ -1,3 +1,3 @@
 timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
-1619401273182,52,Petición HTTP,Non HTTP response code: java.io.FileNotFoundException,Non HTTP response message: /home/ubuntu/CloudFiles/C:\Users\USER\Documents\Uniandes\Semestre 7\Cloud\Proyecto1\Entrega 3\CloudFiles\nov rain solos.mp3 (No such file or directory),Grupo de Hilos 1-1,text,false,,2626,0,1,1,http://LBDespliegueC-1507891125.us-east-2.elb.amazonaws.com/api/audio,0,0,50
-1619401273272,41,Petición HTTP,500,INTERNAL SERVER ERROR,Grupo de Hilos 1-1,text,false,,513,381,1,1,http://LBDespliegueC-1507891125.us-east-2.elb.amazonaws.com/api/voz,39,0,14
+1619401392617,3434,Petición HTTP,201,CREATED,Grupo de Hilos 1-1,text,true,,342,3027949,1,1,http://LBDespliegueC-1507891125.us-east-2.elb.amazonaws.com/api/audio,3434,0,224
+1619401396052,319,Petición HTTP,201,CREATED,Grupo de Hilos 1-1,text,true,,392,384,1,1,http://LBDespliegueC-1507891125.us-east-2.elb.amazonaws.com/api/voz,319,0,111

@@ -29,8 +29,8 @@
         <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="Petición HTTP" enabled="true">
           <elementProp name="HTTPsampler.Files" elementType="HTTPFileArgs">
             <collectionProp name="HTTPFileArgs.files">
-              <elementProp name="C:\Users\USER\Documents\Uniandes\Semestre 7\Cloud\Proyecto1\Entrega 3\CloudFiles\nov rain solos.mp3" elementType="HTTPFileArg">
-                <stringProp name="File.path">C:\Users\USER\Documents\Uniandes\Semestre 7\Cloud\Proyecto1\Entrega 3\CloudFiles\nov rain solos.mp3</stringProp>
+              <elementProp name="./nov rain solos.mp3" elementType="HTTPFileArg">
+                <stringProp name="File.path">./nov rain solos.mp3</stringProp>
                 <stringProp name="File.paramname">file</stringProp>
                 <stringProp name="File.mimetype">audio/wav</stringProp>
               </elementProp>
